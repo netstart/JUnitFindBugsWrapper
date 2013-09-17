@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- http://findbugs.sourceforge.net/manual/filter.html -->
+<FindBugsFilter>
+	<!-- Match certain tests from all classes by specifying their abbreviations. -->
+	<Match>
+		<Bug code="DE, UrF, SIC, EI2" />
+	</Match>
+</FindBugsFilter>
